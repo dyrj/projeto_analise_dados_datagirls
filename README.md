@@ -1,1 +1,1 @@
-# projeto_analise_dados_datagirls
+# projeto_cientista_dados_datagirls
